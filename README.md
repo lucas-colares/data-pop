@@ -31,6 +31,16 @@ This repository is organized as an **R project** and includes the following main
   - `DataPop.Rproj`: The R project file.
   - `README.md`: This document.
 
+## Getting Started  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/lucas-colares/data-pop.git  
+   ```  
+2. Open `DataPop.Rproj` in RStudio.  
+3. Run `00. setup.R` to set up the analysis environment.  
+4. Use the provided scripts to explore and analyze the data.  
+
 ## Citation
 If you use this repository, please cite:
 
