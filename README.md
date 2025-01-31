@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/uhFEmop.png](https://i.imgur.com/BsHZ7tr.png)
+![alt text](https://i.imgur.com/BsHZ7tr.png)
 # Functional diversity in human song repository 🎷🎸🎶
 
 ## Overview
